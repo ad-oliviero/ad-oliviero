@@ -1,8 +1,8 @@
 # <center>Hi, I'm TheDarkBug (aka SkinsNOTSkills)!</center>
 
-## My Development Environment
+## <center>My Development Environment</center>
 
-<center>
+<p align="center">
 
 ![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux/%28sadly%29%20%20Windows%20%2010&color=blue&?style=flat&logo=linux)
 
@@ -18,11 +18,11 @@ TODO:
 pc specs/laptop, keyboard
 -->
 
-</center>
+</p>
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&exclude_repo=DotFiles&langs_count=80&layout=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&exclude_repo=DotFiles&langs_count=80&layout=default&theme=dark)
 
 <!-- ## Known libraries
 [raylib](https://www.raylib.com/)\
@@ -30,7 +30,7 @@ pc specs/laptop, keyboard
 
 ## My Stats
 
-![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true)
+![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedarkbug&repo=uwufetch)](https://github.com/TheDarkBug/uwufetch) -->
 
@@ -39,6 +39,7 @@ pc specs/laptop, keyboard
 ## Contact info
 
 [![gmail](https://img.shields.io/static/v1?label=&message=adrianoliviero23@gmail.com&color=orange&style=for-the-badge&logo=gmail)](adrianoliviero23@gmail.com)
+
 [![protonmail](https://img.shields.io/static/v1?label=&message=adrianoliviero23@protonmail.com&color=9cf&style=for-the-badge&logo=protonmail)](adrianoliviero23@protonmail.com)
 
 [![element](https://img.shields.io/static/v1?label=&message=SkinsNOTSkills&color=9cf&style=for-the-badge&logo=element)](https://element.io/matrix-services?utm_source=element-web&utm_medium=web)
