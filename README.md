@@ -1,8 +1,6 @@
-# <div style="text-align:center"> Hi, I'm TheDarkBug (aka SkinsNOTSkills)!</div>
+# Hi, I'm TheDarkBug (aka SkinsNOTSkills)!
 
 ## My Development Environment
-
-<div style="text-align:center">
 
 ![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux/%28sadly%29%20%20Windows%20%2010&color=blue&?style=flat&logo=linux)
 
@@ -17,7 +15,6 @@
 TODO:
 pc specs/laptop, keyboard
 -->
-</div>
 
 #
 
@@ -46,7 +43,3 @@ pc specs/laptop, keyboard
 [![telegram](https://img.shields.io/static/v1?label=&message=@TheDarkBug&color=9cf&style=for-the-badge&logo=telegram)](https://t.me/TheDarkBug)
 
 [![reddit](https://img.shields.io/static/v1?label=&message=u/TheDarkBug&color=yellow&style=for-the-badge&logo=reddit)](https://reddit.com/u/TheDarkBug)
-
-
-
-
