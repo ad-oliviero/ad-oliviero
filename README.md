@@ -1,8 +1,8 @@
-# <center>Hi, I'm TheDarkBug (aka SkinsNOTSkills)!</center>
+# <div style="text-align:center"> Hi, I'm TheDarkBug (aka SkinsNOTSkills)!</div>
 
-## <center>My Development Environment</center>
+## My Development Environment
 
-<p align="center">
+<div style="text-align:center">
 
 ![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux/%28sadly%29%20%20Windows%20%2010&color=blue&?style=flat&logo=linux)
 
@@ -17,8 +17,7 @@
 TODO:
 pc specs/laptop, keyboard
 -->
-
-</p>
+</div>
 
 #
 
