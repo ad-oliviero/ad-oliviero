@@ -1,5 +1,12 @@
 # Hi, I'm TheDarkBug (aka SkinsNOTSkills)!
 
+## Some info about me
+
+
+
+I am an <script type="text/javascript">document.writeln(Math.trunc(((new Date().getTime() / 1000)-1038006000)/31709800)) </script> years old guy who is going to study computer science at Federico II university.\
+In my free time i like to write C code, but i know also other languages such as python, brainfuck and C++.
+
 ## My Development Environment
 
 ![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux/%28sadly%29%20%20Windows%20%2010&color=blue&?style=flat&logo=linux)
