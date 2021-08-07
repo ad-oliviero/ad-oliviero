@@ -1,1 +1,0 @@
-document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800));
