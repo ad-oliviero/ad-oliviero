@@ -15,7 +15,6 @@ In my free time i like to write C code, but i know also other languages such as 
 
 ![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Firefox&color=orange&?style=flat&logo=internetexplorer)
 
-
 <!--
 TODO:
 pc specs/laptop, keyboard
@@ -48,3 +47,5 @@ pc specs/laptop, keyboard
 [![telegram](https://img.shields.io/static/v1?label=&message=@TheDarkBug&color=9cf&style=for-the-badge&logo=telegram)](https://t.me/TheDarkBug)
 
 [![reddit](https://img.shields.io/static/v1?label=&message=u/TheDarkBug&color=yellow&style=for-the-badge&logo=reddit)](https://reddit.com/u/TheDarkBug)
+
+[![My github page](https://img.shields.io/static/v1?label=&message=thedarkbug.github.io&color=yellow&style=for-the-badge&logo=https://github.com/TheDarkBug/TheDarkBug/blob/main/favicon.png)](https://thedarkbug.github.io/)
