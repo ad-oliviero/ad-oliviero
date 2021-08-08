@@ -48,4 +48,4 @@ pc specs/laptop, keyboard
 
 [![reddit](https://img.shields.io/static/v1?label=&message=u/TheDarkBug&color=yellow&style=for-the-badge&logo=reddit)](https://reddit.com/u/TheDarkBug)
 
-[![My github page](https://img.shields.io/static/v1?label=&message=thedarkbug.github.io&color=yellow&style=for-the-badge&logo=https://github.com/TheDarkBug/TheDarkBug/blob/main/favicon.png)](https://thedarkbug.github.io/)
+[![My github page](https://img.shields.io/static/v1?label=&message=thedarkbug.github.io&color=lightgray&style=for-the-badge&logo=github)](https://thedarkbug.github.io/)
