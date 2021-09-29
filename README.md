@@ -2,7 +2,7 @@
 
 ## Some info about me
 
-I am an 18<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old guy who is going to study computer science at Federico II university.\
+I am an 18<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old computer science student at Federico II university.\
 In my free time i like to write C code, but i know also other languages such as python, brainfuck and C++.
 
 ## My Development Environment
