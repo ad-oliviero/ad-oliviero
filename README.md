@@ -2,12 +2,12 @@
 
 ## Some info about me
 
-I am an 18<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old computer science student at Federico II university.\
+I am a 19<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old engeneering student at Federico II university.\
 In my free time i like to write C code, but i know also other languages such as python, brainfuck and C++.
 
 ## My Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux/%28sadly%29%20%20Windows%20%2010&color=blue&?style=flat&logo=linux)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux/%28sadly%29%20%20Windows%20%2011&color=blue&?style=flat&logo=linux)
 
 ![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode/VIM&color=green&?style=flat&logo=vim)
 
@@ -23,6 +23,7 @@ pc specs/laptop, keyboard
 #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&exclude_repo=DotFiles&langs_count=80&layout=default&theme=dark)
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheDarkBug&layout=compact) -->
 
 <!-- ## Known libraries
 [raylib](https://www.raylib.com/)\
@@ -33,8 +34,6 @@ pc specs/laptop, keyboard
 ![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedarkbug&repo=uwufetch)](https://github.com/TheDarkBug/uwufetch) -->
-
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheDarkBug&layout=compact) -->
 
 ## Contact info
 
