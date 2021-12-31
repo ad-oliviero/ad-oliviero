@@ -7,20 +7,18 @@ In my free time i like to write C code, but i know also other languages such as 
 
 ## My Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux/%28sadly%29%20%20Windows%20%2011&color=blue&?style=flat&logo=linux)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20/%20%28sadly%29%20%20Windows%20%2011&color=blue&?style=flat&logo=linux)
 
-![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode/VIM&color=green&?style=flat&logo=vim)
+![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode%20/%20VIM&color=blue&?style=flat&logo=vim)
 
-![Desktop Environment](https://img.shields.io/static/v1?label=DE&message=Gnome/KDE&color=gray&?style=flat&logo=x.org)
+![Desktop Environment](https://img.shields.io/static/v1?label=WM&message=BSPWM&color=blue&?style=flat&logo=x.org)
 
-![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Firefox&color=orange&?style=flat&logo=internetexplorer)
+![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Waterfox&color=blue&?style=flat&logo=internetexplorer)
 
 <!--
 TODO:
 pc specs/laptop, keyboard
 -->
-
-#
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&exclude_repo=DotFiles&langs_count=80&layout=default&theme=dark)
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheDarkBug&layout=compact) -->
@@ -29,7 +27,7 @@ pc specs/laptop, keyboard
 [raylib](https://www.raylib.com/)\
 [processing (python)](https://processing.org/) -->
 
-## My Stats
+## Github stats
 
 ![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark)
 
