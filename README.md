@@ -1,48 +1,40 @@
 # Hi, I'm TheDarkBug (aka SkinsNOTSkills)!
-
 ## Some info about me
-
 I am a 19<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old engeneering student at Federico II university.\
-In my free time i like to write C code, but i know also other languages such as python, C++, rust and brainfuck.
-
+In my free time i like to write in C, but i know also other languages such as python, C++, rust and brainfuck.
+## You can reach me here:
+- [Github](https://github.com/TheDarkBug)
+- [Twitter](https://twitter.com/a_oliviero_)
+- [Telegram](https://t.me/TheDarkBug)
+- [Element](https://element.io/matrix-services?utm_source=element-web&utm_medium=web)
+- [E-mail](adrianoliviero23@gmail.com)
+- [Reddit](https://reddit.com/u/TheDarkBug)
 ## My Development Environment
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20/%20%28sadly%29%20%20Windows%20%2010&color=blue&?style=flat&logo=linux)
+![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VSCode%20/%20NVIM&color=darkgreen&?style=flat&logo=neovim)
+![Desktop Environment](https://img.shields.io/static/v1?label=WM&message=sway&color=blue&?style=flat&logo=kde)
+![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Firefox&color=orange&?style=flat&logo=firefox)
+## My (physical) Development Environment
+### Laptop
+IdeaPad 5 15IIL05:
+- Core i7-1065G7
+- 8GB RAM
+- SSD 1TB
+- Intel Iris Plus Graphics G7
+### Desktop
+Custom build:
+- AMD Ryzen 3 3200G
+- 16GB RAM Corsair Ballistix 3200mhz
+- SSD 1TB Sabrent Rocket Q
+- SSD 120GB Kingston
+- AMD Radeon RX 5500XT
+### Keyboard
+Epomaker Skyloong SK61:
+- USB Type-C
+- Gateron red switches
+- Keyboard's defaults
+- en-US layout
+## Some stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=gruvbox&layout=compact)
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20/%20%28sadly%29%20%20Windows%20%2011&color=blue&?style=flat&logo=linux)
-
-![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode%20/%20VIM&color=blue&?style=flat&logo=vim)
-
-![Desktop Environment](https://img.shields.io/static/v1?label=WM&message=BSPWM&color=blue&?style=flat&logo=x.org)
-
-![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Waterfox&color=blue&?style=flat&logo=internetexplorer)
-
-<!--
-TODO:
-pc specs/laptop, keyboard
--->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&exclude_repo=DotFiles&langs_count=80&layout=default&theme=dark)
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheDarkBug&layout=compact) -->
-
-<!-- ## Known libraries
-[raylib](https://www.raylib.com/)\
-[processing (python)](https://processing.org/) -->
-
-## Github stats
-
-![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark)
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedarkbug&repo=uwufetch)](https://github.com/TheDarkBug/uwufetch) -->
-
-## Contact info
-
-[![gmail](https://img.shields.io/static/v1?label=&message=adrianoliviero23@gmail.com&color=orange&style=for-the-badge&logo=gmail)](adrianoliviero23@gmail.com)
-
-[![protonmail](https://img.shields.io/static/v1?label=&message=adrianoliviero23@protonmail.com&color=9cf&style=for-the-badge&logo=protonmail)](adrianoliviero23@protonmail.com)
-
-[![element](https://img.shields.io/static/v1?label=&message=SkinsNOTSkills&color=9cf&style=for-the-badge&logo=element)](https://element.io/matrix-services?utm_source=element-web&utm_medium=web)
-
-[![telegram](https://img.shields.io/static/v1?label=&message=@TheDarkBug&color=9cf&style=for-the-badge&logo=telegram)](https://t.me/TheDarkBug)
-
-[![reddit](https://img.shields.io/static/v1?label=&message=u/TheDarkBug&color=yellow&style=for-the-badge&logo=reddit)](https://reddit.com/u/TheDarkBug)
-
-[![My github page](https://img.shields.io/static/v1?label=&message=thedarkbug.github.io&color=lightgray&style=for-the-badge&logo=github)](https://thedarkbug.github.io/)
+![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=gruvbox&layout=compact)
