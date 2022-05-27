@@ -57,19 +57,19 @@
 
 			@keyframes subtitle {
 				0% {
-					width: 0px;
+					width: 0%;
 				}
 
 				25% {
-					width: 0px;
+					width: 0%;
 				}
 
 				50% {
-					width: 340px;
+					width: 100%;
 				}
 
 				100% {
-					width: 340px;
+					width: 100%;
 				}
 			}
 
@@ -107,9 +107,11 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<div class="container">
 				<h1 class="username">TheDarkBug</h1>
-				<div class="subtitle">
-					<h2 class="subtitle-text">Computer Engineering Student</h2>
-					<div class="cursor"></div>
+				<div class="subtitle-container">
+					<div class="subtitle">
+						<h2 class="subtitle-text">Computer Engineering Student</h2>
+						<div class="cursor"></div>
+					</div>
 				</div>
 			</div>
 		</div>
