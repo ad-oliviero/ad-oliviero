@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/TheDarkBug/TheDarkBug/main/header.svg?sanitize=true"></p>
+<p align="center"><img src="header.svg?sanitize=true" width="385" height="100%" alt="header"></p>
 
 ---
 

@@ -94,12 +94,12 @@
 				}
 
 				50% {
-					transform: translate(2150%, -15px);
+					transform: translate(322px, -15px);
 					opacity: 50%;
 				}
 
 				100% {
-					transform: translate(2150%, -15px);
+					transform: translate(323px, -15px);
 					opacity: 0%;
 				}
 			}
