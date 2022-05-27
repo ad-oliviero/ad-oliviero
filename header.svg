@@ -84,22 +84,22 @@
 
 			@keyframes cursor {
 				0% {
-					transform: translate(0px, -15px);
+					transform: translate(0%, -15px);
 					opacity: 0%;
 				}
 
 				25% {
-					transform: translate(0px, -15px);
+					transform: translate(0%, -15px);
 					opacity: 50%;
 				}
 
 				50% {
-					transform: translate(323px, -15px);
+					transform: translate(2150%, -15px);
 					opacity: 50%;
 				}
 
 				100% {
-					transform: translate(323px, -15px);
+					transform: translate(2150%, -15px);
 					opacity: 0%;
 				}
 			}
