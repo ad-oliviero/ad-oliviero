@@ -1,6 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/TheDarkBug/TheDarkBug/main/header.svg?sanitize=true" width="385" height="100%" alt="header"></p>
-
----
+# <p align="center">![Header](https://raw.githubusercontent.com/TheDarkBug/TheDarkBug/main/header.svg?sanitize=true)</p>
 
 ## Some info about me
 
