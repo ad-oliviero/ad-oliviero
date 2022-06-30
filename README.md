@@ -1,7 +1,7 @@
-<center>
+<div align="center">
 
 ![Header](https://raw.githubusercontent.com/TheDarkBug/TheDarkBug/main/header.svg?sanitize=true)
-</center>
+</div>
 
 ---
 
