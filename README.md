@@ -1,4 +1,9 @@
-# <p align="center">![Header](https://raw.githubusercontent.com/TheDarkBug/TheDarkBug/main/header.svg?sanitize=true)</p>
+<center>
+
+![Header](https://raw.githubusercontent.com/TheDarkBug/TheDarkBug/main/header.svg?sanitize=true)
+</center>
+
+---
 
 ## Some info about me
 
@@ -69,8 +74,8 @@ Epomaker Skyloong SK61:
 
 ## Some stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=gruvbox&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=dark&layout=compact)
 
-![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=gruvbox&layout=compact)
+![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDarkBug&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDarkBug&theme=dark)](https://git.io/streak-stats)
