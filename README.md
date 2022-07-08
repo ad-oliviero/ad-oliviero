@@ -68,7 +68,7 @@ Custom build:
 Epomaker Skyloong SK61:
 
 - USB Type-C
-- Gateron red switches
+- Gateron brown switches
 - Keyboard's defaults
 - en-US layout
 
