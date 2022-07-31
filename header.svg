@@ -24,6 +24,36 @@
 				animation: username 1s both;
 			}
 
+			.subtitle {
+				width: 340px;
+				animation: subtitle 3s both;
+				animation-delay: 1s;
+			}
+
+			.subtitle-text {
+				color: #dfbf8e;
+				overflow: hidden;
+				white-space: nowrap;
+				font-family: JetBrains Mono;
+				font-size: 20px;
+				margin-bottom: -10px;
+			}
+
+			.cursor-container {
+				position: relative;
+				top: -15px;
+				width: 192px;
+			}
+
+			.cursor {
+				background-color: #dfbf8e;
+				width: 15px;
+				height: 25px;
+				border-radius: 5px;
+				animation: cursor 3s both;
+				animation-delay: 1s;
+			}
+
 			@keyframes username {
 				0% {
 					transform: translate(0px, 300px) scale(10%);
@@ -38,21 +68,6 @@
 				100% {
 					transform: translate(0px, 0px);
 				}
-			}
-
-			.subtitle {
-				width: 340px;
-				animation: subtitle 3s both;
-				animation-delay: 1s;
-			}
-
-			.subtitle-text {
-				color: #dfbf8e;
-				overflow: hidden;
-				white-space: nowrap;
-				font-family: JetBrains Mono;
-				font-size: 20px;
-				margin-bottom: -10px;
 			}
 
 			@keyframes subtitle {
@@ -73,33 +88,24 @@
 				}
 			}
 
-			.cursor {
-				background-color: #dfbf8e;
-				width: 15px;
-				height: 25px;
-				border-radius: 4px;
-				animation: cursor 3s both;
-				animation-delay: 1s;
-			}
-
 			@keyframes cursor {
 				0% {
-					transform: translate(0%, -15px);
+					transform: translate(0%);
 					opacity: 0%;
 				}
 
 				25% {
-					transform: translate(0%, -15px);
+					transform: translate(0%);
 					opacity: 50%;
 				}
 
 				50% {
-					transform: translate(322px, -15px);
+					transform: translate(1280%);
 					opacity: 50%;
 				}
 
 				100% {
-					transform: translate(323px, -15px);
+					transform: translate(1280%);
 					opacity: 0%;
 				}
 			}
@@ -109,8 +115,10 @@
 				<h1 class="username">TheDarkBug</h1>
 				<div class="subtitle-container">
 					<div class="subtitle">
-						<h2 class="subtitle-text">Computer Engineering Student</h2>
-						<div class="cursor"></div>
+						<h2 class="subtitle-text">Adriano Oliviero</h2>
+						<div class="cursor-container">
+							<div class="cursor"></div>
+						</div>
 					</div>
 				</div>
 			</div>
