@@ -7,7 +7,7 @@
 
 ## Some info about me
 
-I am a 19<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old engeneering student at Federico II university.\
+I am a 20<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old engeneering student at Federico II university.\
 In my free time i like to write in C, but i know also other languages such as Python, C++, Rust and BrainFuck.
 
 ## You can reach me here
