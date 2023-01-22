@@ -7,7 +7,7 @@
 
 ## Some info about me
 
-I am a 19<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old engeneering student at Federico II university.\
+I am a 20<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old engeneering student at Federico II university.\
 In my free time i like to write in C, but i know also other languages such as Python, C++, Rust and BrainFuck.
 
 ## You can reach me here
@@ -27,20 +27,18 @@ In my free time i like to write in C, but i know also other languages such as Py
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,latex,git,linux,md,regex,wasm,androidstudio,docker,gtk,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,latex,md,git,linux,regex,docker,neovim)](https://skillicons.dev)
 
 ## My Development Environment
 
 ![Operating System](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Other Operating system](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![Text Editor](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Text Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 ![Terminal](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 ![Prompt](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
+![Text Editor](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Web Browser](https://img.shields.io/badge/Brave_Browser-303443?style=for-the-badge&logo=Brave&logoColor=FF5400)
 
-![Web Browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+<!-- ![Other Operating system](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
+<!-- ![Text Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
 
 ## My (physical) Development Environment
 
@@ -49,32 +47,32 @@ In my free time i like to write in C, but i know also other languages such as Py
 IdeaPad 5 15IIL05:
 
 - Core i7-1065G7
+- Intel Iris Plus Graphics G7
 - 8GB RAM
 - SSD 1TB
-- Intel Iris Plus Graphics G7
 
 ### Desktop
 
 Custom build:
 
 - AMD Ryzen 3 3200G
+- AMD Radeon RX 5500XT
 - 16GB RAM Corsair Ballistix 3200mhz
 - SSD 1TB Sabrent Rocket Q
 - SSD 120GB Kingston
-- AMD Radeon RX 5500XT
 
-### Keyboard
+#### Keyboard
 
 Epomaker Skyloong SK61:
 
-- USB Type-C
 - Gateron brown switches
-- Keyboard's defaults
 - en-US layout
+- Keyboard's defaults
+- USB Type-C
 
 ## Some stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=dark&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=dark&layout=compact)
 
 ![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark&layout=compact)
 
