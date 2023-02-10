@@ -1,136 +1,137 @@
 <svg fill="none" viewBox="0 0 100% 100%" width="385" height="100%" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<style>
-			.container {
-				display: flex;
-				flex-direction: column;
-				align-items: center;
-				margin: 0;
-				width: 100%;
-				height: 100%;
-				border-radius: 10px;
-				background-color: transparent;
-			}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=JetBrainsMono" />
+  <foreignObject width="100%" height="100%">
+    <style>
+      .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        background-color: transparent;
+      }
 
-			.username {
-				text-align: center;
-				color: #dfbf8e;
-				font-family: JetBrains Mono;
-				font-size: 50px;
-				margin-bottom: -10px;
-				margin-top: 0px;
-				animation: username 1s both;
-			}
+      .username {
+        text-align: center;
+        color: #dfbf8e;
+        font-family: JetBrains Mono;
+        font-size: 50px;
+        margin-bottom: -10px;
+        margin-top: 0px;
+        animation: username 1s both;
+      }
 
-			.subtitle {
-				text-align: center;
-				width: 340px;
-				animation: subtitle 3s both;
-				animation-delay: 1s;
-			}
+      .subtitle {
+        text-align: center;
+        width: 340px;
+        animation: subtitle 3s both;
+        animation-delay: 1s;
+      }
 
-			.subtitle-text {
-				text-align: center;
-				color: #dfbf8e;
-				overflow: hidden;
-				white-space: nowrap;
-				font-family: JetBrains Mono;
-				font-size: 20px;
-				margin-bottom: -10px;
-			}
+      .subtitle-text {
+        text-align: center;
+        color: #dfbf8e;
+        overflow: hidden;
+        white-space: nowrap;
+        font-family: JetBrains Mono;
+        font-size: 20px;
+        margin-bottom: -10px;
+      }
 
-			.cursor-container {
-				position: relative;
-				top: -15px;
-				width: 192px;
-			}
+      .cursor-container {
+        position: relative;
+        top: -15px;
+        width: 192px;
+      }
 
-			.cursor {
-				background-color: #dfbf8e;
-				width: 15px;
-				height: 25px;
-				border-radius: 5px;
-				animation: cursor 3s both;
-				animation-delay: 1s;
-			}
+      .cursor {
+        background-color: #dfbf8e;
+        width: 15px;
+        height: 25px;
+        border-radius: 5px;
+        animation: cursor 3s both;
+        animation-delay: 1s;
+      }
 
-			@keyframes username {
-				0% {
-					transform: translate(0px, 300px) scale(10%);
-					opacity: 0%;
-				}
+      @keyframes username {
+        0% {
+          transform: translate(0px, 300px) scale(10%);
+          opacity: 0%;
+        }
 
-				50% {
-					transform: translate(0px, 0px) scale(50%);
-					opacity: 50%;
-				}
+        50% {
+          transform: translate(0px, 0px) scale(50%);
+          opacity: 50%;
+        }
 
-				100% {
-					transform: translate(0px, 0px);
-				}
-			}
+        100% {
+          transform: translate(0px, 0px);
+        }
+      }
 
-			@keyframes subtitle {
-				0% {
-					width: 0%;
-				}
+      @keyframes subtitle {
+        0% {
+          width: 0%;
+        }
 
-				25% {
-					width: 0%;
-				}
+        25% {
+          width: 0%;
+        }
 
-				50% {
-					width: 100%;
-				}
+        50% {
+          width: 100%;
+        }
 
-				100% {
-					width: 100%;
-				}
-			}
+        100% {
+          width: 100%;
+        }
+      }
 
-			@keyframes cursor {
-				0% {
-					transform: translate(0%);
-					opacity: 0%;
-				}
+      @keyframes cursor {
+        0% {
+          transform: translate(0%);
+          opacity: 0%;
+        }
 
-				24% {
-					opacity: 20%;
-				}
+        24% {
+          opacity: 20%;
+        }
 
-				25% {
-					transform: translate(0%);
-					opacity: 50%;
-				}
+        25% {
+          transform: translate(0%);
+          opacity: 50%;
+        }
 
-				50% {
-					transform: translate(1190%);
-					opacity: 50%;
-				}
+        50% {
+          transform: translate(1190%);
+          opacity: 50%;
+        }
 
-				70% {
-					transform: translate(1190%);
-					opacity: 0%;
-				}
+        70% {
+          transform: translate(1190%);
+          opacity: 0%;
+        }
 
-				100% {
-					transform: translate(1190%);
-					opacity: 0%;
-				}
-			}
-		</style>
-		<div class="body" xmlns="http://www.w3.org/1999/xhtml">
-			<div class="container">
-				<h1 class="username">TheDarkBug</h1>
-				<div>
-					<div class="subtitle">
-						<h2 class="subtitle-text">Adriano Oliviero</h2>
-					</div>
-				</div>
-				<div class="cursor-container">
-					<div class="cursor"></div>
-				</div>
-			</div>
-		</div>
-	</foreignObject>
+        100% {
+          transform: translate(1190%);
+          opacity: 0%;
+        }
+      }
+    </style>
+    <div class="body" xmlns="http://www.w3.org/1999/xhtml">
+      <div class="container">
+        <h1 class="username">TheDarkBug</h1>
+        <div>
+          <div class="subtitle">
+            <h2 class="subtitle-text">Adriano Oliviero</h2>
+          </div>
+        </div>
+        <div class="cursor-container">
+          <div class="cursor"></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
