@@ -72,8 +72,6 @@ Epomaker Skyloong SK61:
 
 ## Some stats
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=dark&layout=compact)
-
-![TheDarkBug](https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark&layout=compact)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDarkBug&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=dark&layout=compact" alt="Most used languages" style="display:block; margin-left: auto; margin-right: auto; margin-bottom: 20px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark&layout=compact" alt="TheDarkBug" style="display:block; margin-left: auto; margin-right: auto; margin-bottom: 20px;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDarkBug&theme=dark" alt="Github Stats" style="display:block; margin-left: auto; margin-right: auto; margin-bottom: 20px;"/>
