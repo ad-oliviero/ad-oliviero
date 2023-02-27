@@ -72,7 +72,6 @@ Epomaker Skyloong SK61:
 
 ## Some stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=dark&layout=compact" alt="Most used languages"/></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark&layout=compact" alt="TheDarkBug"/></p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDarkBug&theme=dark" alt="Github Stats"/></p>
+<p align="center"><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkBug&count_private=true&langs_count=80&theme=dark&layout=compact" alt="Most used languages"/></picture></p>
+<p align="center"><picture><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDarkBug&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark&layout=compact" alt="TheDarkBug"/></picture></p>
+<p align="center"><picture><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDarkBug&theme=dark" alt="Github Stats"/></picture></p>
