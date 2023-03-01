@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/TheDarkBug/TheDarkBug/main/header.svg?sanitize=true)
+<picture>![Header](https://raw.githubusercontent.com/TheDarkBug/TheDarkBug/main/header.svg?sanitize=true)</picture>
 </div>
 
 ---
