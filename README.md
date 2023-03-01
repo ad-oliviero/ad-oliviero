@@ -26,7 +26,7 @@ In my free time i like to write in C, but i know also other languages such as Py
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,latex,md,git,linux,regex,docker,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,latex,neovim,git,linux,docker,regex)](https://skillicons.dev)
 
 ## My Development Environment
 
