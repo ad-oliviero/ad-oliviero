@@ -5,12 +5,6 @@
 
 ---
 
-## Some info about me
-
-I am a 20<!-- <script type="text/javascript"> document.writeln(Math.trunc(((new Date().getTime() / 1000) - 1038006000) / 31709800)); </script> --> years old engeneering student at Federico II university.\
-In my free time i like to write in C, but I know also other languages such as Python and Rust.
-I'm currently learning the Flutter framework (on my own) and C++ (in university). 
-
 ## You can reach me here
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheDarkBug)
