@@ -7,7 +7,7 @@
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,latex,flutter,neovim,git,linux,docker,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,latex,flutter,swift,neovim,git,linux,docker,regex)](https://skillicons.dev)
 
 ## My Development Environment
 
