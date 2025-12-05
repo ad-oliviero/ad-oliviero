@@ -1,13 +1,22 @@
 <div align="center">
 
 ![Header](https://raw.githubusercontent.com/ad-oliviero/ad-oliviero/main/header.svg?sanitize=true)
-</div>
 
 ---
 
 ## My skills
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=c,py,swift,rust" height="40" /><br>
+<img src="https://skillicons.dev/icons?i=flask,mongodb" height="40" />
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,latex,flutter,swift,neovim,git,linux,docker,regex)](https://skillicons.dev)
+### Platforms & Environments
+<img src="https://skillicons.dev/icons?i=linux,git,docker" height="40" /><br>
+<img src="https://skillicons.dev/icons?i=neovim,vim" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" />
+
+### Other
+<img src="https://skillicons.dev/icons?i=latex,sqlite,matlab,arduino" height="40" />
+</div>
 
 ## My Development Environment
 
@@ -17,39 +26,37 @@
 ![Text Editor](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Web Browser](https://img.shields.io/badge/Brave_Browser-303443?style=for-the-badge&logo=Brave&logoColor=FF5400)
 
-<!-- ![Other Operating system](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
-<!-- ![Text Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
-
 ## My (physical) Development Environment
 
 ### Laptop
-
-IdeaPad 5 15IIL05:
-
-- Core i7-1065G7
-- Intel Iris Plus Graphics G7
-- 8GB RAM
-- SSD 1TB
+Lenovo **IdeaPad 5** *15IIL05*:
+- Intel **Core i7**-*1065G7*
+- Intel **Iris Plus Graphics G7**
+- **8GB** *DDR4*
+- SSD **1TB** (*NVME*)
 
 ### Desktop
-
 Custom build:
+- AMD **Ryzen 3** *3200G*
+- AMD *Radeon* **RX 5500XT**
+- **16GB** *DDR4 3200mhz*
+- SSD **1TB** (*NVME*)
 
-- AMD Ryzen 3 3200G
-- AMD Radeon RX 5500XT
-- 16GB RAM Corsair Ballistix 3200mhz
-- SSD 1TB Sabrent Rocket Q
-- SSD 120GB Kingston
+### Homelab
+Raspberry **PI 5** (*8GB*), with:
+- SSD **128GB** (*SATA*)
+- HDD **1TB** *5400RPM*
 
 #### Keyboard
 
 Epomaker Skyloong SK61:
 
-- Gateron brown switches
-- en-US layout
+- **Gateron brown** switches
+- **en-US** layout
 
 ## Some stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-oliviero&count_private=true&langs_count=80&theme=dark&layout=compact" alt="Most used languages"/></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ad-oliviero&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=dark&layout=compact" alt="ad-oliviero"/></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad-oliviero&theme=dark" alt="Github Stats"/></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ad-oliviero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
