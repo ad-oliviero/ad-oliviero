@@ -1,6 +1,7 @@
-<svg fill="none" viewBox="0 0 385 100" width="385" height="100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="snapshot">
+<svg fill="none" viewBox="0 0 385 100" width="385" height="100" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
     <style>
+      @import url("https://fonts.googleapis.com/css?family=JetBrainsMono");
       .body {
         width: 385;
         height: 100;
@@ -12,7 +13,7 @@
 
         background-color: transparent;
         color: #dfbf8e;
-        font-family: JetBrains Mono;
+        font-family: "JetBrains Mono", monospace;
       }
 
       .username {
@@ -74,11 +75,11 @@
       }
       @keyframes subtitle-1{
         0% {
-          transform: translate(-210px, 0px);
+          transform: translate(-300px, 0px);
         }
 
         11% {
-          transform: translate(-210px, 0px);
+          transform: translate(-300px, 0px);
         }
 
         20% {
@@ -100,11 +101,11 @@
       }
       @keyframes subtitle-3{
         0% {
-          transform: translate(215px, 0px);
+          transform: translate(300px, 0px);
         }
 
         11% {
-          transform: translate(215px, 0px);
+          transform: translate(300px, 0px);
         }
 
         20% {
@@ -125,17 +126,14 @@
           opacity: 0%
         }
       }
-      @import url("https://fonts.googleapis.com/css?family=JetBrainsMono");
     </style>
-    <div class="body" xmlns="http://www.w3.org/1999/xhtml">
-        <h1 class="username">Adriano Oliviero</h1>
-        <div>
-          <div class="subtitle">
-            <div class="subtitle-1">ad</div>
-            <div class="subtitle-2">-</div>
-            <div class="subtitle-3">oliviero</div>
-          </div>
-        </div>
-    </div>
+    <g class="body" xmlns="http://www.w3.org/1999/xhtml">
+        <text class="username">Adriano Oliviero</text>
+        <g class="subtitle">
+          <tspan class="subtitle-1">ad</tspan>
+          <tspan class="subtitle-2">-</tspan>
+          <tspan class="subtitle-3">oliviero</tspan>
+        </g>
+    </g>
     </foreignObject>
 </svg>

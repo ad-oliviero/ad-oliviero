@@ -14,8 +14,11 @@ I have skills in Computer Science, but also in advanced maths, physics, control 
 <img src="https://skillicons.dev/icons?i=flask,mongodb,sqlite,latex" height=50 />
 
 ### Platforms & Tools
+<div>
 <img src="https://skillicons.dev/icons?i=arch,linux,git,docker" height=50 /><br>
-<img src="https://skillicons.dev/icons?i=neovim,vscode,matlab" height=50 />&nbsp;<img src="https://cdn.simpleicons.org/xcode" height=55 /><br>
+<img src="https://skillicons.dev/icons?i=neovim,vscode,matlab" height=50 />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/xcode" height=55 />
+</div>
+<br>
 
 # Some stats
 <div align="center">
