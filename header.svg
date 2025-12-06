@@ -9,6 +9,7 @@
 
         color: #dfbf8e;
         font-family: "JetBrains Mono", monospace;
+        transform: translateZ(0);
       }
 
       .username {
@@ -17,16 +18,18 @@
         font-size: 30px;
         transform-origin: center;
         animation: username-an 10s infinite;
+        will-change: transform, opacity;
       }
 
       .subtitle {
         display:flex;
         font-size: 20px;
         animation: subtitle-an 10s infinite;
+        will-change: opacity;
       }
-      .sub-1 { animation: sub-1-an 10s infinite; }
-      .sub-2 { animation: sub-2-an 10s infinite; }
-      .sub-3 { animation: sub-3-an 10s infinite; }
+      .sub-1 { animation: sub-1-an 10s infinite; will-change: transform; }
+      .sub-2 { animation: sub-2-an 10s infinite; will-change: opacity; }
+      .sub-3 { animation: sub-3-an 10s infinite; will-change: transform; }
 
       @keyframes username-an {
         0% {  transform: translateY(110px) scale(0.1); opacity: 0; }
