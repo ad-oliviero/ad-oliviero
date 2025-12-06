@@ -16,7 +16,6 @@
         margin-top: 0px;
         font-size: 30px;
         transform-origin: center;
-        transform-box: fill-box;
         animation: username-an 10s infinite;
       }
 
@@ -59,13 +58,13 @@
         20% { transform: translateX(0px); }
       }
     </style>
-    <g class="body" xmlns="http://www.w3.org/1999/xhtml">
-        <text class="username">Adriano Oliviero</text>
-        <g class="subtitle">
-          <tspan class="sub-1">ad</tspan>
-          <tspan class="sub-2">-</tspan>
-          <tspan class="sub-3">oliviero</tspan>
-        </g>
-    </g>
+    <div class="body" xmlns="http://www.w3.org/1999/xhtml">
+        <div class="username">Adriano Oliviero</div>
+        <div class="subtitle">
+          <span class="sub-1">ad</span>
+          <span class="sub-2">-</span>
+          <span class="sub-3">oliviero</span>
+        </div>
+    </div>
     </foreignObject>
 </svg>
