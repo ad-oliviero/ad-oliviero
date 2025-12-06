@@ -1,13 +1,14 @@
 <svg fill="none" viewBox="0 0 385 100" width="385" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono');
-      .container {
+      text, .container {
         display: flex;
         flex-direction: column;
         align-items: center;
 
-        color: #dfbf8e;
         font-family: "JetBrains Mono", monospace;
+        color: #dfbf8e;
         fill: #dfbf8e;
       }
 
@@ -16,24 +17,13 @@
         transform-origin: center;
         transform-box: fill-box;
         animation: username-an 10s infinite;
-        will-change: transform, opacity;
       }
 
-      .subtitle-wrapper {
+      .subtitle {
+        display: flex;
         font-size: 20px;
+        animation: subtitle-an 10s infinite;
       }
-      
-      /* Layout positioning relative to center using ch units 
-         "ad-oliviero" = 11 chars. Center is at 5.5ch.
-         "ad" (2ch) center at 1ch. Offset: 1 - 5.5 = -4.5ch
-         "-" (1ch) center at 2.5ch. Offset: 2.5 - 5.5 = -3ch
-         "oliviero" (8ch) center at 7ch. Offset: 7 - 5.5 = +1.5ch
-      */
-      .pos-1 { transform: translateX(-4.5ch); }
-      .pos-2 { transform: translateX(-3ch); }
-      .pos-3 { transform: translateX(1.5ch); }
-
-      /* Animations */
       .sub-1 { animation: sub-1-an 10s infinite; will-change: transform; }
       .sub-2 { animation: sub-2-an 10s infinite; will-change: opacity; }
       .sub-3 { animation: sub-3-an 10s infinite; will-change: transform; }
@@ -71,9 +61,10 @@
     <g class="container" xmlns="http://www.w3.org/1999/xhtml">
         <text class="username">Adriano Oliviero</text>
         <g class="subtitle">
-          <tspan class="sub-1">ad</tspan>
-          <tspan class="sub-2">-</tspan>
-          <tspan class="sub-3">oliviero</tspan>
+          <text class="sub-1">ad</text>
+          <text class="sub-2">-</text>
+          <text class="sub-3">oliviero</text>
         </g>
     </g>
+  </foreignObject>
 </svg>
