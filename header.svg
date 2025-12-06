@@ -2,7 +2,7 @@
     <foreignObject width="100%" height="100%">
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono');
-      .body {
+      .container {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -59,7 +59,7 @@
         20% { transform: translateX(0px); }
       }
     </style>
-    <g class="body" xmlns="http://www.w3.org/1999/xhtml">
+    <g class="container" xmlns="http://www.w3.org/1999/xhtml">
         <text class="username">Adriano Oliviero</text>
         <g class="subtitle">
           <tspan class="sub-1">ad</tspan>
