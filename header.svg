@@ -1,5 +1,4 @@
 <svg fill="none" viewBox="0 0 385 100" width="385" height="100" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono');
       .container {
@@ -9,39 +8,49 @@
 
         color: #dfbf8e;
         font-family: "JetBrains Mono", monospace;
+        fill: #dfbf8e;
       }
 
       .username {
-        margin-bottom: -3px;
-        margin-top: 0px;
         font-size: 30px;
         transform-origin: center;
         transform-box: fill-box;
         animation: username-an 10s infinite;
+        will-change: transform, opacity;
       }
 
-      .subtitle {
-        display:flex;
+      .subtitle-wrapper {
         font-size: 20px;
-        animation: subtitle-an 10s infinite;
       }
-      .sub-1 { animation: sub-1-an 10s infinite; }
-      .sub-2 { animation: sub-2-an 10s infinite; }
-      .sub-3 { animation: sub-3-an 10s infinite; }
+      
+      /* Layout positioning relative to center using ch units 
+         "ad-oliviero" = 11 chars. Center is at 5.5ch.
+         "ad" (2ch) center at 1ch. Offset: 1 - 5.5 = -4.5ch
+         "-" (1ch) center at 2.5ch. Offset: 2.5 - 5.5 = -3ch
+         "oliviero" (8ch) center at 7ch. Offset: 7 - 5.5 = +1.5ch
+      */
+      .pos-1 { transform: translateX(-4.5ch); }
+      .pos-2 { transform: translateX(-3ch); }
+      .pos-3 { transform: translateX(1.5ch); }
+
+      /* Animations */
+      .sub-1 { animation: sub-1-an 10s infinite; will-change: transform; }
+      .sub-2 { animation: sub-2-an 10s infinite; will-change: opacity; }
+      .sub-3 { animation: sub-3-an 10s infinite; will-change: transform; }
 
       @keyframes username-an {
         0% {  transform: translateY(110px) scale(0.1); opacity: 0; }
         7% {  transform: translateY(0px) scale(0.5); opacity: 0.5; }
         16% {  transform: translateY(0px); opacity: 1; }
-        80% { opacity: 1 }
-        90% { opacity: 0 }
-        100% { opacity: 0 }
+        80% { opacity: 1; }
+        90% { opacity: 0; }
+        100% { opacity: 0; }
       }
       @keyframes subtitle-an {
-        0% { opacity: 1 }
-        70% { opacity: 1 }
-        80% { opacity: 0 }
-        100% { opacity: 0 }
+        0% { opacity: 1; }
+        70% { opacity: 1; }
+        80% { opacity: 0; }
+        100% { opacity: 0; }
       }
       @keyframes sub-1-an {
         0% { transform: translateX(-300px); }
@@ -67,5 +76,4 @@
           <tspan class="sub-3">oliviero</tspan>
         </g>
     </g>
-    </foreignObject>
 </svg>
