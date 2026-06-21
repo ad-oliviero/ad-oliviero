@@ -2,6 +2,9 @@
   <foreignObject width="100%" height="100%">
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono');
+      :root {
+        color-scheme: light dark;
+      }
       text, .container {
         display: flex;
         flex-direction: column;
@@ -10,6 +13,7 @@
         font-family: "JetBrains Mono", monospace;
         color: #dfbf8e;
         fill: #dfbf8e;
+        background: transparent;
       }
 
       .username {
