@@ -12,12 +12,12 @@ For more detailed info about me, you can check out my [Portfolio](https://ad-oli
 ## My Skills
 I have skills in Computer Science, but also in advanced maths, physics, control systems, electronics and more.
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=c,py,swift,rust,flutter,unity" height=50 /><br>
-<img src="https://skillicons.dev/icons?i=flask,mongodb,sqlite,latex" height=50 />
+<img src="https://skillicons.dev/icons?i=c,py,rust,flutter,unity" height=50 /><br>
+<img src="https://skillicons.dev/icons?i=flask,mongodb,sqlite,swift,latex" height=50 />
 
 ### Platforms & Tools
 <div>
-<img src="https://skillicons.dev/icons?i=arch,linux,apple,android,git,docker" height=50 /><br>
+<img src="https://skillicons.dev/icons?i=arch,linux,git,docker" height=50 /><br>
 <img src="https://skillicons.dev/icons?i=neovim,vscode,matlab" height=50 />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/xcode" height=55 />
 </div>
 <br>
